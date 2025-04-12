@@ -60,12 +60,10 @@ Visualizations are located in `/visualizations` and embedded within the notebook
 
 ## 📂 Repository Structure
 ```
-crime-data-analysis/
-├── data/                   # Raw & cleaned datasets (CSV)
-├── notebooks/             # Jupyter Notebooks for each analysis (Q1–Q13)
-├── visualizations/        # Output PNGs of plots
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+Indian-crime-data-analysis/
+├── Crime Analysis Data/                  # Raw datasets (CSV)
+├── Crime Data Analysis/                  # Jupyter Notebooks for each analysis (Q1–Q14)
+└── README.md                             # Project documentation
 ```
 
 ---
