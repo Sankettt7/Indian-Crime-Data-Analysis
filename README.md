@@ -37,6 +37,7 @@ Each question is supported by data cleaning, transformation, visualization, and 
 ### 🌍 State Crime Progression
 12. **States with Highest Juvenile Crime Volume**
 13. **Average Crime Growth Rate per State**
+14. **Crime Distribution by State**
 
 ---
 
@@ -76,7 +77,7 @@ Indian-crime-data-analysis/
 ---
 
 ## 👤 Author
-**Your Name**  
+**Sanket Parmar**  
 Data Science & Social Impact Enthusiast  
 [GitHub](https://github.com/Sankettt7) | [LinkedIn](https://www.linkedin.com/in/sanket-p-1407/)
 
